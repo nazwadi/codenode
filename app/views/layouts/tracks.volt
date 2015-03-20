@@ -1,0 +1,3 @@
+{{ elements.getTabs() }}
+
+{{ content() }}

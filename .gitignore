@@ -1,0 +1,3 @@
+# Don't include database dump in git
+# only use the structure file
+schemas/codenode.sql
